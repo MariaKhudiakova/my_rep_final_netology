@@ -1,1 +1,9 @@
-# my_rep_final_netology
+# Repository for Netology Final Assignment
+
+## Installation
+
+```pip install fastapi uvicorn```
+
+## Running
+
+```uvicorn main:app --reload```
